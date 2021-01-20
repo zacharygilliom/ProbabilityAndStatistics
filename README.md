@@ -1,4 +1,4 @@
-#Probability & Statistics
+# Probability & Statistics
 This Repo is dedicated to reviewing and re-learning probability and statistics.
 I will be tracking my progress as I go through various chapters and practice problems.
 
